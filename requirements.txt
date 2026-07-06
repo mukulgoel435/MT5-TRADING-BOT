@@ -1,0 +1,4 @@
+MetaTrader5==5.0.5735
+pandas==3.0.3
+numpy==2.4.6
+ta

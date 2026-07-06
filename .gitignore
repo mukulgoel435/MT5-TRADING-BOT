@@ -1,0 +1,16 @@
+# ── Credentials (NEVER commit) ────────────────────────────────────────────────
+config.py
+config_xm.py
+
+# ── Runtime state & data (machine-specific) ───────────────────────────────────
+data/*.json
+data/*.csv
+data/logs/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
